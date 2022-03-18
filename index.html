@@ -4,11 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Tangerine">
+
     <link rel="stylesheet" href="index.css">
     <title>Nada</title>
 </head>
 <body>
     <div class="banner">
+
+        <div class="text">
+            
+           
+            <p class="wish">Wish you all the love and happiness in the world and Hope your birthday is as special as you.</p>
+            <p class="hope">It doesn't matter where in the world we are... you'll always be my twinkling Stern... <i class="fa-solid fa-stars"></i> </p>
+        
+          
+        </div>
         <img src="nadaindex.jpg"/>
 
         <div id ="bg"></div>
@@ -17,7 +29,6 @@
 </body>
     <script>
         let bg = document.querySelector('#bg')
-        console.log("hi")
         window.addEventListener('scroll', function() {
             let value = window.scrollY;
             bg.style.backgroundSize = 100 + value*2 +"px"
