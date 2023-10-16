@@ -35,17 +35,17 @@ body{
     z-index: 2;
 }
 #bg::before{
-    content: 'Happy, happy birthday to my beautiful cha3bela';
+    content: 'Alles Gute zum Geburtstag Mimityyy';
     margin-top: 174px;
     font-size: 40px;
 }
+/*     text-shadow: 4px 4px 4px #aaa;   */
 .text{
     font-family: 'Tangerine', serif;
     font-size: 65px;
     font-weight: 900;
     margin: 14px auto;
-    color: #e60109;
-    text-shadow: 4px 4px 4px #aaa;
+    color: #25857a;
     position: absolute;
     z-index: 1;
     display: flex;
@@ -54,4 +54,7 @@ body{
     flex-direction: column;
     height:100%;
     width:100%;
+}
+.special{
+    color: #ffb9b2;
 }
