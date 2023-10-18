@@ -57,6 +57,8 @@ body{
     width:100%;
     text-align: center;
 }
+
 .special{
+    font-size:80px;
     color: #ffb9b2;
 }
