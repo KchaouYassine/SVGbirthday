@@ -45,6 +45,7 @@ body{
     font-size: 65px;
     font-weight: 900;
     margin: 14px auto;
+    padding: 2rem;
     color: #25857a;
     position: absolute;
     z-index: 1;
@@ -54,6 +55,7 @@ body{
     flex-direction: column;
     height:100%;
     width:100%;
+    text-align: center;
 }
 .special{
     color: #ffb9b2;
