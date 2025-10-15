@@ -35,7 +35,7 @@ body{
     z-index: 2;
 }
 #bg::before{
-    content: 'Alles Gute zum Geburtstag Mimityyy';
+    content: 'Alles Gute zum Geburtstag Noustyy';
     margin-top: 174px;
     font-size: 40px;
 }
@@ -46,7 +46,7 @@ body{
     font-weight: 900;
     margin: 14px auto;
     padding: 2rem;
-    color: #25857a;
+    color: #fbfdfd;
     position: absolute;
     z-index: 1;
     display: flex;
